@@ -43,6 +43,6 @@ The ESP32 is programmed in C++ using the Arduino IDE. It hosts a local web serve
 5. Servo rotates to flip the physical light switch
 
 <p align="center">
-  <img width="409" height="447" alt="image" src="https://github.com/user-attachments/assets/97140d54-73ef-434a-96db-2d74fe2c82eb" />
-  <img width="408" height="447" alt="image" src="https://github.com/user-attachments/assets/7c80ea3d-e007-4a64-9513-bd756003bf5c" />
+  <img src="https://github.com/user-attachments/assets/97140d54-73ef-434a-96db-2d74fe2c82eb" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/7c80ea3d-e007-4a64-9513-bd756003bf5c" width="48%"/>
 </p>
